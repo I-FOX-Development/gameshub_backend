@@ -1,20 +1,22 @@
 [
   {
-    "name": "PythonGame1",
-    "description": "A fun Python-based puzzle game.",
-    "image": "images/python_game1.png",
-    "zipLink": "https://example.com/downloads/python_game1.zip"
+    "name": "Game 1",
+    "image": "https://example.com/images/game1.png",
+    "zipLink": "https://example.com/games/game1.zip"
   },
   {
-    "name": "PythonGame2",
-    "description": "An exciting adventure game built with Python.",
-    "image": "images/python_game2.png",
-    "zipLink": "https://example.com/downloads/python_game2.zip"
+    "name": "Game 2",
+    "image": "https://example.com/images/game2.png",
+    "zipLink": "https://example.com/games/game2.zip"
   },
   {
-    "name": "PythonGame3",
-    "description": "A platformer game developed with Python and Pygame.",
-    "image": "images/python_game3.png",
-    "zipLink": "https://example.com/downloads/python_game3.zip"
+    "name": "Game 3",
+    "image": "https://example.com/images/game3.png",
+    "zipLink": "https://example.com/games/game3.zip"
+  },
+  {
+    "name": "Game 4",
+    "image": "https://example.com/images/game4.png",
+    "zipLink": "https://example.com/games/game4.zip"
   }
 ]
